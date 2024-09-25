@@ -1,0 +1,1 @@
+This project focuses on building a machine learning model to predict car prices based on various features. The dataset was first cleaned, handling missing values and selecting the most relevant features (like mileage, year, and engine size) and the target variable (car price). A Linear Regression model was then applied to predict car prices, achieving an R² score of 0.77. 
